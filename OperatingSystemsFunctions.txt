@@ -4,3 +4,5 @@ by clicking images, as opposed to typing commands at a command line. This makes 
 Another function of an operating system is coordiation of tasks. When running a computer, there are often multiple processes and inputs that need to be handled at once.
 The OS is responsible for deciding what is running and when. When a input is recieved and the corresponding output is busy, the OS will put the input into a special
 memory location called a buffer, which holds the input until the output device is ready.
+
+Addtionally, operating systems monitor the performance of their machine. Most OSs have a performance window, which reports information about its drives, memory, processes, and network, among other things. If the machine is under-performing this window is helpful for users to pinpoint a problem on their machine.  
