@@ -1,2 +1,6 @@
 One function of an operating system is creating a user interface. This usually takes the form of a graphical user interface (GUI). GUI allows the user to navigate menus
 by clicking images, as opposed to typing commands at a command line. This makes navigating the OS much easier and more accesible to new users.
+
+Another function of an operating system is coordiation of tasks. When running a computer, there are often multiple processes and inputs that need to be handled at once.
+The OS is responsible for deciding what is running and when. When a input is recieved and the corresponding output is busy, the OS will put the input into a special
+memory location called a buffer, which holds the input until the output device is ready.
