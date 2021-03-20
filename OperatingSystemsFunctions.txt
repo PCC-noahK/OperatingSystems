@@ -1,0 +1,2 @@
+One function of an operating system is creating a user interface. This usually takes the form of a graphical user interface (GUI). GUI allows the user to navigate menus
+by clicking images, as opposed to typing commands at a command line. This makes navigating the OS much easier and more accesible to new users.
